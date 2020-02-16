@@ -9,3 +9,5 @@ Here comes something else to learn rebase
 ## Repository Purpose
 
 This file is just a readme file
+
+Here some changes for Floating Tag
